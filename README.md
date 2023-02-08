@@ -7,7 +7,7 @@
 - 🌱 I’m currently `SOC Analyst` 🌱
 - 👯 I’m looking to collaborate on making security & productive tools, and machine learning project 👯
 - 🤔 I’m looking for help with Python, Javascript, PHP 🤔
-- 📫 How to reach me: my [LinkedIn](https://www.linkedin.com/in/hunglehuy03/) or [Mail](hungle@xelvis64.tech) 📫
+- 📫 How to reach me: my [LinkedIn](https://www.linkedin.com/in/hunglehuy03/) or my mail: [hungle@xelvis64.tech](mailto:hungle@xelvis64.tech) 📫
 - 😄 Pronouns: He/His 😄
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trumpiter-max&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
