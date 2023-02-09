@@ -11,5 +11,3 @@
 - 😄 Pronouns: He/His 😄
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trumpiter-max&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![wakatime](https://wakatime.com/badge/github/Trumpiter-max/CTF-writeup-archives.svg)](https://wakatime.com/badge/github/Trumpiter-max/CTF-writeup-archives)
