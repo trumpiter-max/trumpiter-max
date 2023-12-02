@@ -1,13 +1,21 @@
-### 👋 Hi there 👋
+## 👋 Hi there 👋
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/hunglehuy03/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:hungle@xelvis64.tech">
+    <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=trumpiter-max&style=flat-square&color=blue" alt="View Count"/>
+</div>
 
 ---
 
-[![Trumpiter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trumpiter-max&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-- 🌱 I’m currently `SOC Analyst` 🌱
+- 🌱 I’m currently a free **software & cyber security engineer** 🌱
 - 👯 I’m looking to collaborate on making security & productive tools, and machine learning project 👯
-- 🤔 I’m looking for help with Python, Javascript, PHP 🤔
-- 📫 How to reach me: my [LinkedIn](https://www.linkedin.com/in/hunglehuy03/) or my mail: [hungle@xelvis64.tech](mailto:hungle@xelvis64.tech) 📫
+- 🤔 I’m working for my own business: Xelvis64 & its partner company. 🤔
+- 📫 If you are interested in me, feel free to contact with on social media. 📫
 - 😄 Pronouns: He/His 😄
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trumpiter-max&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
