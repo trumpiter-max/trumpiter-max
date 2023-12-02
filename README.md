@@ -1,5 +1,7 @@
 ## 👋 Hi there 👋
 
+<br><img src="https://komarev.com/ghpvc/?username=trumpiter-max&style=flat-square&color=blue" alt="View Count"/>
+
 ### Keep in touch
 
 <div id="badges">
@@ -8,8 +10,7 @@
   </a>
   <a href="mailto:hungle@xelvis64.tech">
     <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
-  </a>
-  <br><img src="https://komarev.com/ghpvc/?username=trumpiter-max&style=flat-square&color=blue" alt="View Count"/>
+  </a> 
 </div>
 
 ---
