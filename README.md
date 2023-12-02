@@ -7,7 +7,7 @@
   <a href="mailto:hungle@xelvis64.tech">
     <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=trumpiter-max&style=flat-square&color=blue" alt="View Count"/>
+  <br><img src="https://komarev.com/ghpvc/?username=trumpiter-max&style=flat-square&color=blue" alt="View Count"/>
 </div>
 
 ---
@@ -17,5 +17,7 @@
 - 🤔 I’m working for my own business: Xelvis64 & its partner company. 🤔
 - 📫 If you are interested in me, feel free to contact with on social media. 📫
 - 😄 Pronouns: He/His 😄
+
+### :hammer_and_wrench: Languages and Tools :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trumpiter-max&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
