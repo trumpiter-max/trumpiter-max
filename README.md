@@ -8,9 +8,12 @@
   <a href="https://www.linkedin.com/in/hunglehuy03/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:hungle@xelvis64.tech">
+  <a href="mailto:huyhungvtu@gmail.com">
     <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
   </a> 
+   <a href="https://ieeexplore.ieee.org/author/37090089811">
+    <img src="https://img.shields.io/badge/IEEE-green?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Badge"/>
+  </a>
 </div>
 
 ---
